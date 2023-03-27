@@ -1,9 +1,11 @@
 import org.apache.commons.lang3.StringUtils;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.util.stream.Collectors;
 
 public class Test {
 
@@ -31,6 +33,40 @@ public class Test {
     }
 
     private static void processData(String data, Map<String, String> fieldsToTags) {
+        String[] lines = data.split("\n");
+        System.out.println(lines.length);
+        int lineNo = 0;
+        Map<String, String> fieldDataMap = new HashMap<>();
+
+        String prevFieldName = null;
+        int startLine = 0, endLine = 0;
+
+        while (lineNo < lines.length) {
+            String val = lines[lineNo];
+            if (val.startsWith("^field")) {
+
+                if (prevFieldName != null) {
+                    endLine = lineNo;
+                    String[] fieldLines = Arrays.copyOfRange(lines, startLine, endLine);
+                    fieldDataMap.put(prevFieldName, String.join("; ", fieldLines));
+                }
+
+                prevFieldName = val.split(" ")[1];
+                startLine = lineNo + 1;
+            }
+            lineNo++;
+        }
+
+        // Flush at the end
+        if (prevFieldName != null) {
+            endLine = lineNo;
+            String[] fieldLines = Arrays.copyOfRange(lines, startLine, endLine);
+            fieldDataMap.put(prevFieldName, String.join("; ", fieldLines));
+        }
+
+        System.out.println(fieldDataMap);
+    }
+    private static void processData1(String data, Map<String, String> fieldsToTags) {
         String[] lines = data.split("\n");
         System.out.println(lines.length);
         int lineNo = 0;
