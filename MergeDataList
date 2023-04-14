@@ -1,0 +1,230 @@
+Key: IMAGE Value::::^graph C:\Work\LatestUpgrade\nwpc-spi\web\APP-INF\print/bmps/cbo-0109ca0314.jpg
+Key: INS_NAME Value::::Prepared For: CA PA,Date: 04/12/2023
+Key: AGENCY_NAME Value::::Agency Name: Agent Test,Agency License Number: 4134213,Agency Phone Number: (989) 898-9898
+Key: COVER_STATE Value::::^graph C:\Work\LatestUpgrade\nwpc-spi\web\APP-INF\print/bmps/cbo-0109ca0314_second.jpg
+Key: TODAYS_DT Value::::04/12/2023,^global POLICY_HOLDER,CA PA
+Key: SIGNATURE Value::::^graph C:\Work\LatestUpgrade\nwpc-spi\web\APP-INF\print/bmps/paul_vandenbosch.bmp
+Key: PRESIDENT_NAME Value::::Paul VanDenBosch,,^form "pvr0250ca" -aduon
+Key: CARD_IMAGE Value::::^graph C:\Work\LatestUpgrade\nwpc-spi\web\APP-INF\print/bmps/pvr-0250ca5_fronta.jpg,^form "pvr0250ca"
+Key: IMAGE_2 Value::::^graph C:\Work\LatestUpgrade\nwpc-spi\web\APP-INF\print/bmps/pvr-0250ca0818_back.jpg,^form "cbr0309ca" -aduon
+Key: CARD_IMAGE Value::::^graph C:\Work\LatestUpgrade\nwpc-spi\web\APP-INF\print/bmps/cbr0309ca.jpg,^form "cbr-0174ca0214" -aduon
+Key: IMAGE_1 Value::::^graph C:\Work\LatestUpgrade\nwpc-spi\web\APP-INF\print/bmps/pvr-0124ao.jpg,^form "multi-line-proposal-ca" -aduon,\defineresolve:PageNumber,1.,^define group:SWITCHPAGE       \page1\field$POSITION.\defineresolve:PageNumber,@(@:PageNumber.+1).,^global PAGE_NUMBER,@:PageNumber.
+Key: DUMMY_HEADER Value::::
+Key: CURRENT_DATE Value::::04/12/2023
+Key: AGENT_NAME_ADD Value::::Agent Test / AgentTest,82 Holmes Way, Schaumburg, IL 60193-7417
+Key: LICENSE_NUM_LABEL Value::::License #
+Key: LICENSE_NUM Value::::4134213
+Key: SUMMARY_INS_NAME Value::::Insured Name:
+Key: INSURED_NAME Value::::CA PA
+Key: INSURED_ADD Value::::100 Great Oaks Blvd,San Jose, CA 95119-1462
+Key: PA_PREMIUM Value::::$11,357.94
+Key: HO_PREMIUM Value::::Not Quoted
+Key: PC_PREMIUM Value::::Not Quoted
+Key: PX_PREMIUM Value::::Not Quoted
+Key: TOTAL_PREMIUM Value::::$11,357.94
+Key: COMMENTS Value::::
+Key: DISCLAIMER_TEXT Value::::
+Key: PA_QUOTE_APP_ID Value::::AA-00000454
+Key: PA_CURRENT_DATE Value::::04/12/2023
+Key: PA_EFF_DT Value::::01/27/2023
+Key: PA_CARRIER_NAME Value::::Crestbrook Insurance Company
+Key: PA_AGENT_NAME_ADD Value::::Agent Test / AgentTest,82 Holmes Way, Schaumburg, IL 60193-7417
+Key: PA_INSURED_NAME_LABEL Value::::Insured Name:
+Key: PA_INSURED_NAME Value::::CA PA
+Key: PA_INSURED_ADD Value::::100 Great Oaks Blvd,San Jose, CA 95119-1462
+Key: PA_PAYMENT_PLAN Value::::Direct Statement Bill Full Pay
+Key: PA_HEADING Value::::Discount(s):
+Key: PA_DISCOUNT Value::::Good Driver Discount
+Key: PA_DISCOUNT Value::::Elite Driver Discount
+Key: PA_DISCOUNT Value::::Passive Occupant Restraint Discount
+Key: TOTAL_PA_PREMIUM Value::::5,415.34
+Key: PA_POLICY_COV_HEAD Value::::
+Key: PA_LINE_COV_DET Value::::Roadside Assistance
+Key: PA_LINE_COV_PRM Value::::$21.94
+Key: PA_LINE_COV_LIMIT Value::::Basic - Towing up to 15 Miles
+Key: DUMMY_SPACE Value::::
+Key: PA_POLICY_COV_DESC Value::::Automobile Theft Surcharge Recoupment Fee
+Key: COV_PRM Value::::$3.52
+Key: DUMMY_SPACE Value::::
+Key: VEHICLE_DUMMY Value::::
+Key: VEH_DESC Value::::Vehicle 1 2020, LAMBORGHINI, HURACAN
+Key: VEH_DESC_PREMIUM Value::::$4,283.78
+Key: DUMMY_SPACE Value::::
+Key: VEH_DESC Value::::Vehicle 2 2005, LOTUS, ELISE
+Key: VEH_DESC_PREMIUM Value::::$1,106.10
+Key: DUMMY_SPACE Value::::
+Key: INSURED_MISC_VEH Value::::Insured Vehicles and Schedule of Coverage
+Key: VEH_SR_NUM Value::::1:
+Key: VEHICLE_NUMBER Value::::2020, LAMBORGHINI, HURACAN
+Key: GARAGE_ADDRESS Value::::100 Great Oaks Blvd, San Jose, CA 95119-1462
+Key: PA_STATE Value::::CA
+Key: PA_TERRITORY Value::::
+Key: VIN Value::::ZHWUT4ZF8LLA13213
+Key: COLL_DED_TEXT Value::::Collision Deductible
+Key: COLLISION_DED Value::::$1,000
+Key: COMP_DED_TEXT Value::::Comprehensive Deductible with Full Glass
+Key: COMP_DED Value::::$750
+Key: TOTAL_VEHICLE_PREMIUM Value::::4,283.78
+Key: INSURED_MISC_VEH_COV_HEADER Value::::
+Key: PA_COV_LT Value::::$100,000 / $300,000
+Key: PA_COV_PREMIUM Value::::$440.64
+Key: PA_COV_DESC Value::::Bodily Injury Liability Per Person / Per Accident
+Key: DUMMY_SPACE Value::::
+Key: PA_COV_LT Value::::$100,000
+Key: PA_COV_PREMIUM Value::::$340.52
+Key: PA_COV_DESC Value::::Property Damage Liability
+Key: DUMMY_SPACE Value::::
+Key: PA_COV_LT Value::::$10,000
+Key: PA_COV_PREMIUM Value::::$86.78
+Key: PA_COV_DESC Value::::Medical Payments
+Key: DUMMY_SPACE Value::::
+Key: PA_COV_LT Value::::$100,000 / $300,000
+Key: PA_COV_PREMIUM Value::::$154.56
+Key: PA_COV_DESC Value::::Uninsured Motorist Bodily Injury - Per Person / Per Accident
+Key: DUMMY_SPACE Value::::
+Key: PA_COV_LT Value::::Actual Cash Value with Full Glass - Deductible $750
+Key: PA_COV_PREMIUM Value::::$538.00
+Key: PA_COV_DESC Value::::Comprehensive
+Key: DUMMY_SPACE Value::::
+Key: PA_COV_LT Value::::Actual Cash Value - Deductible $1,000
+Key: PA_COV_PREMIUM Value::::$2,723.28
+Key: PA_COV_DESC Value::::Collision
+Key: DUMMY_SPACE Value::::
+Key: PA_COV_LT Value::::3000
+Key: PA_COV_PREMIUM Value::::Included
+Key: PA_COV_DESC Value::::Custom Equipment Coverage
+Key: DUMMY_SPACE Value::::
+Key: VEH_SR_NUM Value::::2:
+Key: VEHICLE_NUMBER Value::::2005, LOTUS, ELISE
+Key: GARAGE_ADDRESS Value::::100 Great Oaks Blvd, San Jose, CA 95119-1462
+Key: PA_STATE Value::::CA
+Key: PA_TERRITORY Value::::
+Key: VIN Value::::SCCPC11125HL31804
+Key: COLL_DED_TEXT Value::::Collision Deductible
+Key: COLLISION_DED Value::::$750
+Key: COMP_DED_TEXT Value::::Comprehensive Deductible with Full Glass
+Key: COMP_DED Value::::$500
+Key: TOTAL_VEHICLE_PREMIUM Value::::1,106.10
+Key: INSURED_MISC_VEH_COV_HEADER Value::::
+Key: PA_COV_LT Value::::$100,000 / $300,000
+Key: PA_COV_PREMIUM Value::::$243.74
+Key: PA_COV_DESC Value::::Bodily Injury Liability Per Person / Per Accident
+Key: DUMMY_SPACE Value::::
+Key: PA_COV_LT Value::::$100,000
+Key: PA_COV_PREMIUM Value::::$197.42
+Key: PA_COV_DESC Value::::Property Damage Liability
+Key: DUMMY_SPACE Value::::
+Key: PA_COV_LT Value::::$10,000
+Key: PA_COV_PREMIUM Value::::$47.94
+Key: PA_COV_DESC Value::::Medical Payments
+Key: DUMMY_SPACE Value::::
+Key: PA_COV_LT Value::::$100,000 / $300,000
+Key: PA_COV_PREMIUM Value::::$135.90
+Key: PA_COV_DESC Value::::Uninsured Motorist Bodily Injury - Per Person / Per Accident
+Key: DUMMY_SPACE Value::::
+Key: PA_COV_LT Value::::Actual Cash Value with Full Glass - Deductible $500
+Key: PA_COV_PREMIUM Value::::$108.44
+Key: PA_COV_DESC Value::::Comprehensive
+Key: DUMMY_SPACE Value::::
+Key: PA_COV_LT Value::::Actual Cash Value - Deductible $750
+Key: PA_COV_PREMIUM Value::::$372.66
+Key: PA_COV_DESC Value::::Collision
+Key: DUMMY_SPACE Value::::
+Key: PA_COV_LT Value::::3000
+Key: PA_COV_PREMIUM Value::::Included
+Key: PA_COV_DESC Value::::Custom Equipment Coverage
+Key: DUMMY_SPACE Value::::
+Key: DRIVER_DUMMY Value::::
+Key: DRIVER_NAME Value::::CA PA
+Key: DRIVER_DOB Value::::01/01/1987
+Key: DUMMY_SPACE Value::::
+Key: POLICY_END_HEAD Value::::
+Key: ENDORSEMENT_DESC Value::::G-9333-4 07/22 What Does Nationwide Do With Your Personal Information
+Key: ENDORSEMENT_DESC Value::::G8001 05/20 Signature Page
+Key: ENDORSEMENT_DESC Value::::GIN2014CBCA 04/18 Important Insurance Information Consumer Complaints and Information - California
+Key: ENDORSEMENT_DESC Value::::A4500 07/16 Auto Policy - California
+Key: ENDORSEMENT_DESC Value::::A5004 04/18 Special Provisions - California
+Key: ENDORSEMENT_DESC Value::::GIN2052CA 02/22 Important Notice - California Insurance Guarantee Association
+Key: ENDORSEMENT_DESC Value::::A2047CA 04/18 Evidence of Insurance is Required with Registration Renewal
+Key: ENDORSEMENT_DESC Value::::A2048CA 04/18 Notice of Insurance Information Practices and Special Good Driver Notice
+Key: ENDORSEMENT_DESC Value::::A2053CBCA 04/18 Important Notice - Explanation of Effects of Accidents and Convictions
+Key: ENDORSEMENT_DESC Value::::AIN2105CA 01/22 Important Notice – Fraud Statement
+Key: ENDORSEMENT_DESC Value::::A2049CA 04/18 Notice of Limits of Future Coverage
+Key: ENDORSEMENT_DESC Value::::GIN2008CB 07/16 Summary of Rights
+Key: ENDORSEMENT_DESC Value::::A2052CA 04/18 Availability of Special Discounts or Rating
+Key: ENDORSEMENT_DESC Value::::A4578 07/16  Full Safety Glass Coverage
+Key: ENDORSEMENT_DESC Value::::A5104 04/18 Uninsured Motorists Coverage - California
+Key: ENDORSEMENT_DESC Value::::A4568 07/16  Roadside Assistance Coverage
+Key: ENDORSEMENT_DESC Value::::G1005CA 04/18 Third Party Designation Notification
+Key: ENDORSEMENT_DESC Value::::A2054CA 04/18 How Your Insurance Premium Is Developed
+Key: DISCLAIMER_TEXT Value::::
+Key: PA_QUOTE_APP_ID Value::::AA-00000456
+Key: PA_CURRENT_DATE Value::::04/12/2023
+Key: PA_EFF_DT Value::::02/02/2022
+Key: PA_CARRIER_NAME Value::::Crestbrook Insurance Company
+Key: PA_AGENT_NAME_ADD Value::::Agent Test / AgentTest,82 Holmes Way, Schaumburg, IL 60193-7417
+Key: PA_INSURED_NAME_LABEL Value::::Insured Name:
+Key: PA_INSURED_NAME Value::::CA PA
+Key: PA_INSURED_ADD Value::::260 Wildhorse Ct,San Jose, CA 95138-1396
+Key: PA_PAYMENT_PLAN Value::::Direct Statement Bill Full Pay
+Key: PA_HEADING Value::::Discount(s):
+Key: PA_DISCOUNT Value::::Good Driver Discount
+Key: PA_DISCOUNT Value::::Elite Driver Discount
+Key: PA_DISCOUNT Value::::Passive Occupant Restraint Discount
+Key: TOTAL_PA_PREMIUM Value::::5,942.60
+Key: PA_POLICY_COV_HEAD Value::::
+Key: PA_POLICY_COV_DESC Value::::Automobile Theft Surcharge Recoupment Fee
+Key: COV_PRM Value::::$1.76
+Key: DUMMY_SPACE Value::::
+Key: VEHICLE_DUMMY Value::::
+Key: VEH_DESC Value::::Vehicle 1 2020, ROLLS-ROYCE, CULLINAN
+Key: VEH_DESC_PREMIUM Value::::$5,940.84
+Key: DUMMY_SPACE Value::::
+Key: INSURED_MISC_VEH Value::::Insured Vehicles and Schedule of Coverage
+Key: VEH_SR_NUM Value::::1:
+Key: VEHICLE_NUMBER Value::::2020, ROLLS-ROYCE, CULLINAN
+Key: GARAGE_ADDRESS Value::::260 Wildhorse Ct, San Jose, CA 95138-1396
+Key: PA_STATE Value::::CA
+Key: PA_TERRITORY Value::::
+Key: VIN Value::::SLATV4C05LU201186
+Key: COLL_DED_TEXT Value::::Collision Deductible
+Key: COLLISION_DED Value::::$500
+Key: COMP_DED_TEXT Value::::Comprehensive Deductible with Full Glass
+Key: COMP_DED Value::::$500
+Key: TOTAL_VEHICLE_PREMIUM Value::::5,940.84
+Key: INSURED_MISC_VEH_COV_HEADER Value::::
+Key: PA_COV_LT Value::::$100,000 / $300,000
+Key: PA_COV_PREMIUM Value::::$509.74
+Key: PA_COV_DESC Value::::Bodily Injury Liability Per Person / Per Accident
+Key: DUMMY_SPACE Value::::
+Key: PA_COV_LT Value::::$50,000
+Key: PA_COV_PREMIUM Value::::$383.98
+Key: PA_COV_DESC Value::::Property Damage Liability
+Key: DUMMY_SPACE Value::::
+Key: PA_COV_LT Value::::$2,000
+Key: PA_COV_PREMIUM Value::::$64.82
+Key: PA_COV_DESC Value::::Medical Payments
+Key: DUMMY_SPACE Value::::
+Key: PA_COV_LT Value::::$100,000 / $300,000
+Key: PA_COV_PREMIUM Value::::$235.56
+Key: PA_COV_DESC Value::::Uninsured Motorist Bodily Injury - Per Person / Per Accident
+Key: DUMMY_SPACE Value::::
+Key: PA_COV_LT Value::::Actual Cash Value with Full Glass - Deductible $500
+Key: PA_COV_PREMIUM Value::::$620.12
+Key: PA_COV_DESC Value::::Comprehensive
+Key: DUMMY_SPACE Value::::
+Key: PA_COV_LT Value::::Actual Cash Value - Deductible $500
+Key: PA_COV_PREMIUM Value::::$4,126.62
+Key: PA_COV_DESC Value::::Collision
+Key: DUMMY_SPACE Value::::
+Key: PA_COV_LT Value::::3000
+Key: PA_COV_PREMIUM Value::::Included
+Key: PA_COV_DESC Value::::Custom Equipment Coverage
+Key: DUMMY_SPACE Value::::
+Key: DRIVER_DUMMY Value::::
+Key: DRIVER_NAME Value::::CA PA
+Key: DRIVER_DOB Value::::01/01/1987
+Key: DUMMY_SPACE Value::::
+Key: POLICY_END_HEAD Value::::
+Key: DISCLAIMER_TEXT Value::::
+Key: PAGE_NUMBER Value::::,^trace SIMPLEX=@:SIMPLEX.@LF.,^trace DUPLEX=@:DUPLEX.@LF.,^$page 0
